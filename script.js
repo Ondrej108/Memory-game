@@ -45,7 +45,7 @@ buttonStart.addEventListener("click", function () {
 
   result.innerHTML = "";
   endGame.innerHTML = "";
-  seconds = 20;
+  seconds = 120;
   matchedPairs = 0;
   gameOver = false;
   isLocked = false;
