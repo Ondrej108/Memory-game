@@ -1,4 +1,4 @@
-# Memory Game (Beta) - Desktop Only
+# Memory Game 
 
 A simple and fun memory card matching game built as a personal learning project. This beta version is optimized for desktop browsers.
 
