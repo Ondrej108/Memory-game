@@ -154,7 +154,7 @@ body.game-started .game-cards img {
 /* back side */
 
 .game-cards img.hidden1 {
-  content: url("img2/frontside4.jpeg");
+  content: url("img2/frontside4");
   transform: rotateY(0deg);
 }
 
